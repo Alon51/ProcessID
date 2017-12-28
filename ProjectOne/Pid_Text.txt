@@ -1,0 +1,12 @@
+Programming homework - Pid mannager.
+
+1. Author: Alon Butbul
+2. A pid manager is the part of the OS that taking care of giving a unique ID to a process that created.
+   The pid manager also taking care of the processes themselves that they would not have the same ID.
+3.When a process is created, a unique number will assign to it, that is very important for the functionality of the system
+  to distingish between two similer processes.
+
+5 & 6:
+
+In the program I tried to demonstrate the system functionality, how each process gets its own ID and later on if the user
+decide to eliminate a specific process the ID will be given to other process.
